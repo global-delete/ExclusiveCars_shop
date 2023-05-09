@@ -39,6 +39,7 @@ section {
   text-align: center;
   font-size: 4.5rem;
   color: var(--black);
+  text-transform: none;
 }
 
 .heading span {
@@ -91,6 +92,7 @@ section {
   margin: 0 1rem;
   font-size: 1.7rem;
   color: var(--black);
+  text-transform: none;
 }
 
 .header .navbar a:hover {
